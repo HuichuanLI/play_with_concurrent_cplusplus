@@ -3,5 +3,5 @@ project(play_with_algo)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES    ./condition_demo.cpp)
+set(SOURCE_FILES    ./fork1.cpp)
 add_executable(play_with_algo ${SOURCE_FILES})
