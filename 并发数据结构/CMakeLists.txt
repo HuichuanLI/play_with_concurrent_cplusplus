@@ -3,5 +3,5 @@ project(play_with_algo)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES    ./spin_lock_demo.cpp)
+set(SOURCE_FILES    ./rwlock_demo.cpp)
 add_executable(play_with_algo ${SOURCE_FILES})
